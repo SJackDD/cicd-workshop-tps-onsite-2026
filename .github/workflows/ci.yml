@@ -92,7 +92,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deploy
         uses: actions/deploy-pages@v4
-
+#
   # --------------------------------------------------------------------------
   # EC2 deploy example (not used in this workshop — enable with repository secrets if needed)
   # --------------------------------------------------------------------------
